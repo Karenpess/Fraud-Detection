@@ -79,6 +79,7 @@ This study demonstrates that fraud modeling is fundamentally a decision optimiza
 ---
 
 **Author:** Karen Pessoa
+
 PhD Candidate in Statistics | Risk Modeling & Machine Learning
 
 
